@@ -6,6 +6,7 @@
 -- Generation Time: Jan 18, 2020 at 07:10 PM
 -- Server version: 5.1.53
 -- PHP Version: 5.3.4
+--
 
 SET SQL_MODE="NO_AUTO_VALUE_ON_ZERO";
 
